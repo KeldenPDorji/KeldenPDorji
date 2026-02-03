@@ -1,10 +1,10 @@
 # A𝖇𝖔𝖚𝖙 🧛🏻 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RiNzdhZmc4MXo2NWdud2xtbGp2MTNkZnllM3I1anpzcGRrdGh0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BZQX7JcbhPC1b2B7nQ/giphy.gif' width='250'>
 
 - :octocat: **K𝖊𝖑𝖉𝖊𝖓 P𝖍𝖚𝖓𝖙𝖘𝖍𝖔 𝕯𝖔𝖗𝖏𝖎**  
-- 🇧🇹 𝙏𝙝𝙞𝙧𝙙-𝙔𝙚𝙖𝙧 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 · 𝘾𝙎𝙏, 𝘽𝙝𝙪𝙩𝙖𝙣  
-- ⚔️ Major: 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮  
-- 🚀 𝘽𝙚𝙮𝙤𝙣𝙙 𝘾𝙤𝙙𝙚 - 𝘾𝙤𝙢𝙥𝙚𝙩𝙞𝙩𝙞𝙫𝙚 𝘽𝙖𝙙𝙢𝙞𝙣𝙩𝙤𝙣  
-- 📩 𝙂𝙢𝙖𝙞𝙡 - 𝙠𝙚𝙡𝙙𝙚𝙣𝙙𝙧𝙖𝙘@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+- :basecamp: 𝚃𝚑𝚒𝚛𝚍-𝚈𝚎𝚊𝚛 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 · 𝙲𝚂𝚃, 𝙱𝚑𝚞𝚝𝚊𝚗
+- :shipit: 𝙼𝚊𝚓𝚘𝚛: 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢
+- :trollface: 𝙱𝚎𝚢𝚘𝚗𝚍 𝙲𝚘𝚍𝚎 – 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙱𝚊𝚍𝚖𝚒𝚗𝚝𝚘𝚗
+- :dependabot: 𝙶𝚖𝚊𝚒𝚕: keldendrac@gmail.com
 
 # Tech Ecosystem
 <img align='left' src='https://i.giphy.com/TO5meWLySRoZg0GX99.webp' width='300'>
