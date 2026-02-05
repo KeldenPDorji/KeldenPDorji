@@ -17,6 +17,3 @@
 
 # Network <img align='left' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhzN2Nod3IxNDc0dWJlamx2cXBhMzFraTU4cHk0Yjk2NDR2OTMwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FUYdp3Ub8T3akK2rQ5/giphy.gif' width='100'> 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kelden.phuntsho.dorji.2025) <img align='middle' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U2OGRzaW5vbDNzbWZ2Y2ZjZ2Z2bnNnajM2N2M3Mm1xZTZ5aTF6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/erX30mQNfhdAvWzjdt/giphy.gif' width='130'> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelden-phuntsho-dorji-2137123a2/) 
-
-
-
