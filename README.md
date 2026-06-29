@@ -1,12 +1,13 @@
 # 🧛🏻 A𝖇𝖔𝖚𝖙 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RiNzdhZmc4MXo2NWdud2xtbGp2MTNkZnllM3I1anpzcGRrdGh0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BZQX7JcbhPC1b2B7nQ/giphy.gif' width='250'>
 
-- :octocat: **Kelden Phuntsho Dorji · སྐལ་ལྡན་  ཕུན་ཚོགས་  རྡོ་རྫེ།**  
-- :basecamp: Final-Year Software Engineering Student · CST, Bhutan
-- :shipit: Major: Cybersecurity
-- :accessibility: Beyond Code - Competitive Badminton
-- :dependabot: Gmail - keldendrac@gmail.com
+- :octocat: **Kelden Phuntsho Dorji ⌖ སྐལ་ལྡན་  ཕུན་ཚོགས་  རྡོ་རྫེ།**  
+- :basecamp: Final-Year Software Engineering Student ⌖ CST, Bhutan
+- :shipit: Major: Cybersecurity 𒅌
+- :accessibility: Beyond Code 🜸 Badminton
+- :dependabot: Gmail ⌞ keldendrac@gmail.com ⌝ 
 
-# ⚒️ Tech Ecosystem 
+# 𖤓 Tech Ecosystem 
+
 <img align='left' src='https://i.giphy.com/TO5meWLySRoZg0GX99.webp' width='300'>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
